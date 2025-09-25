@@ -5,6 +5,7 @@ It is hard to get rid of Facebook due to the use of Marketplace and various grou
 I originally only removed the videos from the homepage, and I have left that option commented-out. I hope that this extension helps people who do not want to be wasting their time on Facebook but need that little extra bit of help.
 
 Your Facebook homepage will still show the sidebars and birthdays on the homepage, but the main content will look like this:
+
 <img width="718" height="658" alt="Screenshot 2025-09-24 at 2 03 14 PM" src="https://github.com/user-attachments/assets/abb57d11-808d-450a-92ca-61443e9a9bad" />
 
 
